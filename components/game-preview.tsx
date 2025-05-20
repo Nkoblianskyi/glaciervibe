@@ -52,8 +52,7 @@ export default function GamePreview() {
         </div>
         <CardContent className="p-6 text-center bg-white">
           <p className="text-[#0e7490]">
-            Opplev spenningen ved sosiale fiskespill! Spinn hjulene på vårt nye 4x4 rutenett, match fiskearter og
-            symboler på linjene, og samle poeng for å låse opp nye nivåer og bonusfunksjoner. Nyt all moroa - helt uten
+            Opplev spenningen ved sosiale fiskespill! Nyt all moroa - helt uten
             ekte penger!
           </p>
         </CardContent>
