@@ -41,9 +41,6 @@ export default function Header() {
         </div>
         <div className="flex items-center gap-2">
           <ModeToggle />
-          <Button asChild className="hidden md:flex">
-            <Link href="/#spill-na">Spill Nå</Link>
-          </Button>
         </div>
       </div>
     </header>

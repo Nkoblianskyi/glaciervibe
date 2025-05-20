@@ -72,14 +72,6 @@ export default function Home() {
               Opplev spenningen ved sosiale kasinospill med fisketema - helt uten ekte penger, innsats eller gevinster.
               Spill for moro skyld og bli en mester i vårt virtuelle fiskeeventyr.
             </p>
-            <div className="flex justify-center">
-              <Link
-                href="/contact"
-                className="inline-flex items-center justify-center rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-blue-300 bg-blue-100 text-blue-900 hover:bg-blue-200 h-10 px-4 py-2"
-              >
-                Kontakt Oss
-              </Link>
-            </div>
           </div>
         </div>
       </section>
