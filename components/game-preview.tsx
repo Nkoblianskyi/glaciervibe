@@ -52,8 +52,7 @@ export default function GamePreview() {
         </div>
         <CardContent className="p-6 text-center bg-white">
           <p className="text-[#0e7490]">
-            Opplev spenningen ved sosiale fiskespill! Nyt all moroa - helt uten
-            ekte penger!
+            Føl gleden av spillet. Ingen vedlegg. Et risikofritt avslappende spill!
           </p>
         </CardContent>
       </Card>
