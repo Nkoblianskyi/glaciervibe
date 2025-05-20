@@ -65,7 +65,7 @@ export default function GamePreview() {
               Aldersbekreftelse
             </DialogTitle>
             <DialogDescription>
-              Dette sosiale spillet er kun for personer som er 18 år eller eldre. Innholdet er kun for
+              Dette sosiale spillet for personer som er 18 år eller eldre. Innholdet  for
               underholdningsformål, uten ekte penger.
             </DialogDescription>
           </DialogHeader>
