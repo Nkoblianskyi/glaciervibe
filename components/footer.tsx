@@ -178,20 +178,6 @@ export default function Footer() {
                 </a>
               </div>
             </address>
-
-            <div className="pt-2">
-              <h4 className="text-sm font-medium text-blue-300 mb-2">Åpningstider</h4>
-              <div className="space-y-1 text-sm text-blue-200">
-                <div className="flex justify-between">
-                  <span>Mandag - Fredag:</span>
-                  <span>09:00 - 17:00</span>
-                </div>
-                <div className="flex justify-between">
-                  <span>Lørdag - Søndag:</span>
-                  <span>Stengt</span>
-                </div>
-              </div>
-            </div>
           </div>
 
           {/* Column 4: Support */}

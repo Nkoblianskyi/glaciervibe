@@ -39,7 +39,7 @@ export default function GamePreview() {
       <Card className="overflow-hidden border-2 border-blue-300 shadow-xl">
         <div className="relative aspect-video">
           <Image
-            src="/fishing-game-preview.png"
+            src="/d73fff77c5ac2b500786768852998108.jpg"
             alt="Fjordens Fisker spillforhåndsvisning"
             fill
             className="object-cover"
